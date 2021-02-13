@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CryptoFear&amp;Greed</string>
+    <string name="main_app_text">All the functionality for this app is in the app widget.</string>
+    <string name="appwidget_label">Crypto Fear&amp;Greed Index</string>
+    <string name="appwidget_indexValue">0</string>
+    <string name="appwidget_indexMeaning">pending…</string>
+    <string name="alternativeMeLink"><a href="https://alternative.me/crypto/fear-and-greed-index/">Alternative.me fear&amp;greed index source</a></string>
+    <string name="btctoolsLink"><a href="https://btctools.io/stats/crypto-fear-and-greed-index">BTCTools fear&amp;greed index source</a></string>
+</resources>
